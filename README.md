@@ -19,7 +19,7 @@
  
   ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Phyton](https://img.shields.io/badge/-phyton-0D1117?style=for-the-badge&logo=phyton&logoColor=yelow&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-phyton-0D1117?style=for-the-badge&logo=phyton&logoColor=yelow&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=red&labelColor=#FF0000)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
